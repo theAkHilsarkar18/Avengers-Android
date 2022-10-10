@@ -1,0 +1,33 @@
+#include<stdio.h>
+int main()
+{
+
+    
+
+    {
+                // phase 1.
+        {
+                    // 1.
+            float gt = 12.00; // f t h
+            // 2.
+            float pt = 12.30; // p f dr
+            // 3.
+            float st = 12.45; // s i c
+        }
+
+                // phase 2.
+        {
+            
+            //4.
+            float dt = 4.30; // s 4 o'c w h
+            //5.
+            float dwf = 5.00 // d w f a o l 
+            //6.
+        }
+    }
+
+    
+
+
+    return 0;
+}
